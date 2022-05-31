@@ -1,0 +1,22 @@
+.pageHeader {
+    text-align: center;
+    background-color: bisque;
+}
+
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(113, 73, 73);
+}
+
+
+.shop {
+    flex-basis: 24%;
+    border: 1px dotted black;
+    padding: 0.5em;
+    margin: 0em;
+    text-align: left;
+
+}
